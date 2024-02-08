@@ -12,3 +12,18 @@ a {
     font-size: 13px;
     font-family: arian, sans-serif;
 }
+
+.product-icon {
+    height: 24px;
+    width: 24px;
+    fill: #5f6368;
+}
+
+.login-button {
+    font-family: Google Sans, Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    background-color: #1a73e8;
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 4px;
+}
