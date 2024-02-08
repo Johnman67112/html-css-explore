@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(255, 0, 0);
+}
+
+img {
+    height: 92px;
+}
+
+a {
+    text-decoration: none;
+    color: #000000DE;
+    font-size: 13px;
+    font-family: arian, sans-serif;
+}
